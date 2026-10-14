@@ -171,6 +171,7 @@ project-root/
 ## Related Tools
 
 - [Advanced Context Engineering for Coding Agents](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents) - Techniques for optimizing context windows and prompts for autonomous agents.
+- [Latchkey](https://latchkey.dev) - Self-healing GitHub Actions runners with a CLI and MCP server, so each loop iteration can run its tests on a fresh Linux runner and get the real exit code back.
 
 ## Support
 
